@@ -1,5 +1,5 @@
 # Chance-Web Checker
-Chance-WC Core for GoLang
+Chance-WC Core with GoLang
 
 ## Use Stack
 - GoLang (Main)
